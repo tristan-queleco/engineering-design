@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024"><defs><linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2f6bf0"/><stop offset="1" stop-color="#0c2c86"/></linearGradient>
+<clipPath id="sq"><rect x="100" y="100" width="824" height="824" rx="185"/></clipPath>
+<filter id="sh" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="10" stdDeviation="12" flood-color="#000" flood-opacity="0.30"/></filter></defs>
+<rect x="100" y="100" width="824" height="824" rx="185" fill="url(#g)" filter="url(#sh)"/>
+<g clip-path="url(#sq)" stroke="#ffffff" stroke-opacity="0.09" stroke-width="3"><path d="M168.7 100V924M100 168.7H924"/><path d="M237.4 100V924M100 237.4H924"/><path d="M306.1 100V924M100 306.1H924"/><path d="M374.8 100V924M100 374.8H924"/><path d="M443.5 100V924M100 443.5H924"/><path d="M512.2 100V924M100 512.2H924"/><path d="M580.9 100V924M100 580.9H924"/><path d="M649.6 100V924M100 649.6H924"/><path d="M718.3 100V924M100 718.3H924"/><path d="M787.0 100V924M100 787.0H924"/><path d="M855.7 100V924M100 855.7H924"/></g></svg>
